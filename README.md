@@ -5,7 +5,9 @@ The purpose of this project is to load and analyze the Fisher Iris dataset using
 Two datasets were provided:
 - Sepal measurements
 - Petal measurements
+
 These datasets were combined into one DataFrame using Pandas merge functionality.
+
 The final dataset included:
 - Sample ID
 - Species
@@ -29,7 +31,9 @@ The project uses:
 - Pandas Series for statistical calculations.
 - Pandas DataFrames for structured data manipulation.
 - GroupBy for species-level comparison.
+
 No classes were required for this implementation because Pandas provides built-in methods for structured data analysis.
+
 # Limitations
 - The analysis assumes clean datasets.
 - No missing data handling was implemented.
